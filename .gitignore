@@ -1,2 +1,4 @@
 *.ear
 *.war
+/HelloWorld/nbproject/private/
+/OnlineshopProject/nbproject/private/
